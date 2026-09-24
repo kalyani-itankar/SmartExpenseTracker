@@ -35,7 +35,7 @@ SmartExpenseTracker/
 ├── database.py
 ├── expenses.db
 ├── requirements.txt
-└── README.md
+
 ```
 
 ## ▶️ How to Run
