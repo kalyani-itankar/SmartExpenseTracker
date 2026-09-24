@@ -29,8 +29,11 @@ A simple personal finance web application built with **Python, Streamlit, SQLite
 ```text
 SmartExpenseTracker/
 │
+├── app.py
 ├── streamlit_app.py
+├── analytics.py
 ├── database.py
+├── expenses.db
 ├── requirements.txt
 └── README.md
 ```
